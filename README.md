@@ -1,2 +1,2 @@
 # pakjunction
-pakjunction is an entertainment website.
+pajunction is a repository for movies code.
